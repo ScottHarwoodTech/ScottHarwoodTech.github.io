@@ -12,6 +12,7 @@
   },
   "homepage": "https://github.com/ScottHarwoodTech/ScottHarwoodTech.github.io#readme",
   "dependencies": {
+    "diff": "^4.0.1",
     "semantic-ui": "^2.4.2"
   }
 }
